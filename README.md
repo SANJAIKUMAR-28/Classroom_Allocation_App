@@ -1,16 +1,14 @@
-# newlogin
+# MyClass - a Classroom Allocation Mobile App
 
-A new Flutter project.
+MyClass: Streamlining Your Classroom Management Workflow
+MyClass is a user-friendly classroom allocation application designed to simplify and automate the scheduling process for educational institutions. Packed with intuitive features and powerful optimization tools, MyClass empowers administrators, teachers, and students with a centralized platform for managing classroom resources effectively.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Key Features:
+Centralized Scheduling: Book classrooms for lectures, meetings, events, and exams with a drag-and-drop interface.
+Advanced Filter & Search: Find available classrooms based on specific criteria like capacity, equipment, location, and time.
+Real-time Availability: Stay updated on classroom occupancy to avoid scheduling conflicts.
+Recurring Bookings: Automate repetitive bookings for regularly scheduled classes or meetings.
+Customizable Permissions: Manage user access and permissions for different roles (admin, teacher, student).
+Integration with Existing Systems: Integrate with school calendars and other management software for seamless workflows.
+Reporting & Analytics: Gain valuable insights into classroom usage patterns and optimize resource allocation.
+Mobile App: Access and manage bookings on the go with a convenient mobile app (optional).
